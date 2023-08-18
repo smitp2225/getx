@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:getx/counter_app_ui.dart';
 import 'package:getx/counter_demo/counter_ui.dart';
 import 'package:getx/init.controller.dart';
 
